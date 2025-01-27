@@ -16,5 +16,10 @@
     "url": "https://github.com/sheikhbilalahmad0097/Ass4/issues"
   },
   "homepage": "https://github.com/sheikhbilalahmad0097/Ass4#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.14.1",
+    "stylelint-config-standard": "^37.0.0"
+  }
 }
